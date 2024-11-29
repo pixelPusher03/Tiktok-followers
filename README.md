@@ -1,3 +1,7 @@
+## Tiktok Followers
+Grow Your TikTok Audience!
+Run a short script in your terminal to get a limited number of followers on TikTok.
+
 ## Installation 
   <pre>git clone https://github.com/pixelPusher03/TikTok-followers.git</pre>
    <pre>cd TikTok-followers</pre>
