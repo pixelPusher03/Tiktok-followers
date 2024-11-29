@@ -1,10 +1,7 @@
 ## Installation 
-  <pre>git clone https://github.com/thedeveloper03/TikTok-followers.git</pre>
+  <pre>git clone https://github.com/pixelPusher03/TikTok-followers.git</pre>
    <pre>cd TikTok-followers</pre>
-2. Install modules using pip:
    <pre>pip install -r requirements.txt</pre>
-3. Make sure you have Google Chrome installed
-4. Run the .py file!
    <pre>python tiktokv1.py</pre>
 
 ## Note
