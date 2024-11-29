@@ -1,7 +1,5 @@
 ## Installation 
-1. Git-clone this repo & change directory
-
-   <pre>git clone https://github.com/thedeveloper03/TikTok-followers.git</pre>
+  <pre>git clone https://github.com/thedeveloper03/TikTok-followers.git</pre>
    <pre>cd TikTok-followers</pre>
 2. Install modules using pip:
    <pre>pip install -r requirements.txt</pre>
