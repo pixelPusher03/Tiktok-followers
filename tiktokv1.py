@@ -17,9 +17,9 @@ def clear():
         _ = system('clear')
 
 clear()
-system('title TIKTOK FOLLOWS')
+system('title TIKTOK FOLLOWERS')
 
-print(pyfiglet.figlet_format("TIKTOK FOLLOWS", font="slant"))
+print(pyfiglet.figlet_format("TIKTOK FOLLOWERS", font="slant"))
 print("1. Viewbot.\n2. Heartbot.\n3. Followerbot.\n3. Sharebot.\n4. Credits.\n")
 
 auto = int(input("Mode: "))
@@ -258,9 +258,9 @@ elif auto == 4:
     b.start()
     
 elif auto == 5:
-    print("[+] This program was created by @thedeveloper03. [github.com/thedeveloper03]")
-    print("[+] This program was origionally uploaded to github.com/thedeveloper03/tiktok-follows.")
-    print("[+] This program was majorly improved by @thedeveloperofc. [github.com/thedeveloper03]")
+    print("[+] This program was created by @thedeveloper03")
+    print("[+] This program was origionally uploaded to github")
+    print("[+] This program was majorly improved by @thedeveloperofc")
     
 else:
     print(f"{auto} is not a valid option. Please pick 1, 2, 3, 4 or 5")
